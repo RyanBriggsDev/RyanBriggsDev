@@ -10,7 +10,6 @@ Front End Web Developer
 * 🚀  I'm currently working on [Wrongmove | A Rightmove Clone](http://github.com/ytsruh/wrongmove)
 * 🧠  I'm learning React.js / Next.js
 * 🤝  I'm open to collaborating on Interesting Projects & Open Source
-* ⚡  Everyone thinks I'm weird for liking gardening
 
 ### Skills
 
