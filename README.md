@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Web Developer
 -----------------------
 
-I’ve always had a passion for learning things and I’ve recently found a need for a change in life. So when I discovered Web Dev, I knew it was what I wanted to do. I’ve been learning now consistently for around 6 months.
-
 * 🌍  I'm based in Warrington, UK
 * 🖥️  See my portfolio at [ryanbriggs.dev](http://ryanbriggs.dev)
 * ✉️  You can contact me at [r@ryanbriggs.dev](mailto:r@ryanbriggs.dev)
