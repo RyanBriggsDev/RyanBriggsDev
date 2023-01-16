@@ -8,7 +8,7 @@ Front End Web Developer
 * 🖥️  See my portfolio at [ryanbriggs.dev](http://ryanbriggs.dev)
 * ✉️  You can contact me at [r@ryanbriggs.dev](mailto:r@ryanbriggs.dev)
 * 🚀  I'm currently working on [Wrongmove | A Rightmove Clone](http://github.com/ytsruh/wrongmove)
-* 🧠  I'm learning React.js / Next.js
+* 🧠  I'm learning Tailwind & Next.js
 * 🤝  I'm open to collaborating on Interesting Projects & Open Source
 
 ### Skills
