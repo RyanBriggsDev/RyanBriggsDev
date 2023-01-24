@@ -7,7 +7,7 @@ Front End Web Developer
 * 🌍  I'm based in Warrington, UK
 * 🖥️  See my portfolio at [ryanbriggs.dev](http://ryanbriggs.dev)
 * ✉️  You can contact me at [r@ryanbriggs.dev](mailto:r@ryanbriggs.dev)
-* 🚀  I'm currently working on [Wrongmove | A Rightmove Clone](http://github.com/ytsruh/wrongmove)
+* 🚀  I'm currently working on [Certify](https://github.com/RyanBriggsDev/certify)
 * 🧠  I'm learning Tailwind & Next.js
 * 🤝  I'm open to collaborating on Interesting Projects & Open Source
 
