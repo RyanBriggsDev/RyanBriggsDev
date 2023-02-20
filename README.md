@@ -10,7 +10,7 @@ I am a self taught front end web developer with 1 year of experience in creating
 * 🖥️  See my portfolio at [ryanbriggs.dev](http://ryanbriggs.dev)
 * ✉️  You can contact me at [r@ryanbriggs.dev](mailto:r@ryanbriggs.dev)
 * 🚀  I'm currently working on [Certify](http://github.com/ryanbriggsdev/certify)
-* 🧠  I'm learning Tailwind / TypeScript
+* 🧠  I'm learning TypeScript / Jest
 * 🤝  I'm open to collaborating on Interesting Projects & Open Source
 * ⚡  Nobody understands my enjoyment of gardening
 
