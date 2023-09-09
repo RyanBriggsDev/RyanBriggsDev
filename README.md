@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ryan Briggs
 ===================================================================================================================================
 
-Next.js/React Frontend Developer
+Frontend Developer
 --------------------------------
 
 I am a self taught front end web developer with 1 year of experience in creating dynamic and responsive web applications using React and Next.js frameworks.
@@ -9,8 +9,7 @@ I am a self taught front end web developer with 1 year of experience in creating
 * 🌍  I'm based in Warrington, UK
 * 🖥️  See my portfolio at [ryanbriggs.dev](http://ryanbriggs.dev)
 * ✉️  You can contact me at [r@ryanbriggs.dev](mailto:r@ryanbriggs.dev)
-* 🚀  I'm currently working on [Certify](http://github.com/ryanbriggsdev/certify)
-* 🧠  I'm learning the MERN Stack, Node.JS, TypeScript & Jest. 
+* 🚀  I'm currently working on [BetterThingys]([http://github.com/ryanbriggsdev/certify](https://github.com/RyanBriggsDev/better-thingys))
 * 🤝  I'm open to collaborating on Interesting Projects & Open Source
 * ⚡  Nobody understands my enjoyment of gardening
 
