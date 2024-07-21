@@ -8,6 +8,7 @@ A self-taught web developer with a passion for Next.js/React. I balance my time 
 
 * 🌍  I'm based in Warrington, UK
 * 💼  Frontend Developer @ Rainy City Agency
+* 🏫  Studying Software Engineering @ The Open University
 * 🖥️  See my portfolio at [ryanbriggs.dev](http://ryanbriggs.dev)
 * ✉️  You can contact me at [r@ryanbriggs.dev](mailto:r@ryanbriggs.dev)
 * 🧠  I'm learning <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> & <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
