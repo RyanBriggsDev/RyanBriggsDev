@@ -1,12 +1,13 @@
 Hey, I'm Ryan. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
-Self Taught Web Developer
+Web Developer
 -------------------------
 
 A self-taught web developer with a passion for Next.js/React. I balance my time between being a full time developer, part time software development student and hanging out with my dog, Ivy.
 
 * 🌍  I'm based in Warrington, UK
+* 💼  Frontend Developer @ Rainy City Agency
 * 🖥️  See my portfolio at [ryanbriggs.dev](http://ryanbriggs.dev)
 * ✉️  You can contact me at [r@ryanbriggs.dev](mailto:r@ryanbriggs.dev)
 * 🧠  I'm learning Node.js & Python
