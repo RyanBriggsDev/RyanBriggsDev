@@ -1,6 +1,6 @@
 # Hey, I'm Ryan: ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-💼 Frontend Developer @ Rainy City Agency.<br>🏫 Studying Software Engineering @ The Open University.<br>🔭 You'll see me working on Koritsu.tech.<br>🌱 I’m currently learning C++ & Python.<br>🖥️ See my portfolio at ryanbriggs.dev.<br>✉️ You can contact me at r@ryanbriggs.dev.
+💼 Frontend Developer @ That Works Agency. 🚀<br>🏫 Studying Software Engineering @ The Open University.<br>🔭 You'll see me working on Koritsu.tech.<br>🌱 I’m currently learning C++ & Python.<br>🖥️ See my portfolio at ryanbriggs.dev.<br>✉️ You can contact me at r@ryanbriggs.dev.
 
 
 ## 🌐 Socials:
