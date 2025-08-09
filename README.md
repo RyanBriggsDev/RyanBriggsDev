@@ -1,7 +1,10 @@
 # Hey, I'm Ryan: ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-💼 Development Lead @ That Works Agency. 🚀<br>🏫 Studying Software Engineering @ The Open University.<br>🔭 You'll see me working on <a href="https://www.webiliti.com/">webiliti.com</a>.<br>🌱 I’m currently learning C++ & Python.<br>🖥️ See my portfolio at ryanbriggs.dev.<br>✉️ You can contact me at r@ryanbriggs.dev or on the Social links below!
-
+💼 Development Lead @ That Works Agency. 🚀<br>
+🏫 Studying Software Engineering @ The Open University.<br>
+🔭 You'll see me working on <a href="https://www.webiliti.com/">webiliti.com</a>.<br>
+🖥️ See my portfolio at ryanbriggs.dev.<br>
+✉️ You can contact me at r@ryanbriggs.dev or on the Social links below!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ryanbriggsdev) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ryanbriggsdev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ryanbriggsdev) 
